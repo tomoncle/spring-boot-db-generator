@@ -1,8 +1,11 @@
-# spring-boot-db-generator
+# spring-boot-db-generator 
+![Build Status](https://travis-ci.org/tomoncle/spring-boot-db-generator.svg?branch=master) ![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)
+
 > 通过数据库生成数据模型及简单xml映射
 
 
-## install
+
+## Install
 ```bash
 $ git clone https://github.com/tomoncle/spring-boot-db-generator
 ```
